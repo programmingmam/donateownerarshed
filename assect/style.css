@@ -193,7 +193,7 @@ color: #000;
  
     width: 100%;
     height:100vh;
-    background-image:linear-gradient(rgba(0, 0, 0, 0.589),rgba(0, 0, 0, 0.605)), url(/assect/imgbox/bg.jpg);
+    background-image:linear-gradient(rgba(0, 0, 0, 0.589),rgba(0, 0, 0, 0.605)), url(assect/imgbox/bg.jpg);
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -323,7 +323,7 @@ background-color: #680707;
 /* ---------------------karjokon */
  
 .karjokom{
-    background-image:linear-gradient(rgba(0, 0, 0, 0.718),rgba(0, 0, 0, 0.726)), url(/assect/imgbox/logo-1.jpeg);
+    background-image:linear-gradient(rgba(0, 0, 0, 0.718),rgba(0, 0, 0, 0.726)), url(assect/imgbox/logo-1.jpeg);
     background-size: cover;
     background-position:center;
     background-repeat: no-repeat;
@@ -440,7 +440,7 @@ padding-top: 50px;
 font-weight: 700;
 font-size: 50px;
 color: #fff;
-background-image:linear-gradient(rgba(0, 0, 0, 0.412),rgba(0, 0, 0, 0.494)), url(/assect/imgbox/register-now-document-filling-form-concept.jpg);
+background-image:linear-gradient(rgba(0, 0, 0, 0.412),rgba(0, 0, 0, 0.494)), url( imgbox/register-now-document-filling-form-concept.jpg);
 background-repeat: no-repeat;
 background-size: cover;
 width: 100%;
@@ -717,7 +717,7 @@ form .form-row button:hover {
     .invebtion{
        text-align: justify;
     }
-    
+
   
     
     
