@@ -4,19 +4,27 @@
           margin-top: 10px;        
      }
 
+     .header{
+     
+        margin: 2px 0;
+       
+      
+    }
+    
+
      .header .logo img{
-        width: 50px;
+        width: 40px;
     }
 
     .hero-wrapper{
         position: absolute;
         content: '';
-        top: 100px;
+        top: 80px;
        left:0;    
        
      }
      .hero-background h2{
-        font-size: 30px;
+        font-size: 25px;
        }
 
        .hero-background .hero-wrapper .col-md-4{
@@ -24,21 +32,22 @@
     }
 
     .hero-background .hero-wrapper .col-md-4 .form-select{
-       margin-top: 10px;
+       margin-top: 2px;
      }
      .hero-background  .col-md-4 p{
-        margin-top: 10px;
+        margin-top: 7px;
        
        }
 
     .hero-background .hero-wrapper .col-md-2{
          text-align: center;
+       
     }
 
     .text-animation{
         position: absolute;
         content: '';
-        top: 170px;
+        top: 100px;
        
     }
 
@@ -58,11 +67,16 @@
 
     .karjokom h2{
         font-size: 32px;
+        padding: 0;
     }
     .karjokom li{
      
-      padding: 2px 0;
-      font-size: 16px;
+      padding:2px;
+      font-size: 17px;
+     
+    }
+    .media-kar{
+     padding: 0 0 15px 0;
     }
 
     .fotter .col-md-3 li {
@@ -85,6 +99,44 @@
         font-size: 20px;
         
     }
+    .Developer-details{
+      padding: 15px 0;
+    }
+
+    /* ---------------------registeation-------------- */
+    .form-registration h3{
+      
+      font-size: 30px;
+      
+      height: 30vh;
+      
+      }
+
+
+
+      /* login--------form----------------- ----------------- */
+
+       
+.content-wrapper {
+ 
+padding:15px;
+}
+
+.login h2 {
+   
+    font-size: 30px;
+    padding-top: 10px;
+   
+}
+
+
+      /* login--------form------------------------ --------------------- */
+
+      .invebtion{
+         padding: 0 10px;
+     }
+     
+      
     
 
 
